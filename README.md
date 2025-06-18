@@ -32,3 +32,16 @@ This repository contains a Bash script to automate the download and setup of [OD
    ```bash
    git clone https://github.com/momrulhasan/odat-installer.git
    cd odat-installer
+2. **Make the script executable:**
+   ```bash
+   chmod +x install_odat.sh
+3. **Run the installation script:**
+   ```bash
+   ./install_odat.sh
+
+##🚀 Start Using ODAT
+odat --help
+
+> 💡 If the `odat` command doesn't work immediately, try restarting your terminal or sourcing your `.zshrc` file:
+```bash
+source ~/.zshrc
