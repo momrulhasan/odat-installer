@@ -43,5 +43,5 @@ This repository contains a Bash script to automate the download and setup of [OD
 odat --help
 
 > 💡 If the `odat` command doesn't work immediately, try restarting your terminal or sourcing your `.zshrc` file:
-    ```bash
-    source ~/.zshrc
+  ```bash
+source ~/.zshrc
