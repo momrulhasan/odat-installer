@@ -39,7 +39,7 @@ This repository contains a Bash script to automate the download and setup of [OD
    ```bash
    ./install_odat.sh
 
-##🚀 Start Using ODAT
+## 🚀 Start Using ODAT
 odat --help
 
 > 💡 If the `odat` command doesn't work immediately, try restarting your terminal or sourcing your `.zshrc` file:
